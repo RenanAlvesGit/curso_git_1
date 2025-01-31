@@ -33,3 +33,8 @@ Melhoria 1, **melhoria 2**
 #### Imagem local
 
 ![logo do python](img/WW.png)
+
+
+#### Imagem externa
+
+![logo do PHP](https://pt.wikipedia.org/wiki/SVG#/media/Ficheiro:Bitmap_VS_SVG.svg)
