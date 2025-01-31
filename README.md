@@ -22,9 +22,14 @@ Melhoria 1, **melhoria 2**
 ### Funcionalidades a desenvolver:
 
 1. Área de membros
- 1. L
- 2. A
- 3. S
+                     1. Ldfsafdf
+                     2. Adfsadfsa
+                     3. Sfdsafdsa
 
 2. Integração com outros pagamentos
-3. Sistema de bonus primeira compra 
+3. Sistema de bonus primeira compra
+
+
+#### Imagem local
+
+![logo do python](img/WW.png)
