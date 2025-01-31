@@ -46,3 +46,6 @@ Melhoria 1, **melhoria 2**
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/matheusbattisti
+
+
+[![logo do PHP](https://pt.wikipedia.org/wiki/SVG#/media/Ficheiro:Bitmap_VS_SVG.svg)](https://pt.wikipedia.org/wiki/SVG#/media/Ficheiro:Bitmap_VS_SVG.svg)
