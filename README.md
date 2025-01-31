@@ -22,5 +22,9 @@ Melhoria 1, **melhoria 2**
 ### Funcionalidades a desenvolver:
 
 1. Área de membros
+ 1. L
+ 2. A
+ 3. S
+
 2. Integração com outros pagamentos
 3. Sistema de bonus primeira compra 
