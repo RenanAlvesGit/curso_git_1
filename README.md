@@ -49,3 +49,10 @@ Contribuidor principal: https://www.github.com/matheusbattisti
 
 
 [![logo do PHP](https://pt.wikipedia.org/wiki/SVG#/media/Ficheiro:Bitmap_VS_SVG.svg)](https://pt.wikipedia.org/wiki/SVG#/media/Ficheiro:Bitmap_VS_SVG.svg)
+
+
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
