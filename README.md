@@ -38,3 +38,7 @@ Melhoria 1, **melhoria 2**
 #### Imagem externa
 
 ![logo do PHP](https://pt.wikipedia.org/wiki/SVG#/media/Ficheiro:Bitmap_VS_SVG.svg)
+
+
+## Links interessantes:
+[Google](https://www.google.com)
